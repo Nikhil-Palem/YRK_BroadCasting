@@ -31,7 +31,7 @@ import {
 import v1 from "../assets/ourvehicles/12.jpg";
 import v2 from "../assets/ourvehicles/16.jpeg";
 import v3 from "../assets/ourvehicles/18.jpg";
-import v4 from "../assets/ourvehicles/compulsory3.jpg";
+import v4 from "../assets/ourvehicles/Compulsory3.jpg";
 import v5 from "../assets/ourvehicles/DCMBIG.jpeg";
 import v6 from "../assets/ourvehicles/DCMLShape.jpg";
 import v7 from "../assets/ourvehicles/LShapemodel.jpg";
