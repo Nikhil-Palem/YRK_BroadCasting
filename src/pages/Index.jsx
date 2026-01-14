@@ -34,7 +34,7 @@ import v3 from "../assets/ourvehicles/18.jpg";
 import v4 from "../assets/ourvehicles/Compulsory3.jpg";
 import v5 from "../assets/ourvehicles/DCMBIG.jpeg";
 import v6 from "../assets/ourvehicles/DCMLShape.jpg";
-import v7 from "../assets/ourvehicles/LShapemodel.jpg";
+import v7 from "../assets/ourvehicles/Lshapemodel.jpg";
 import v8 from "../assets/ourvehicles/ModelLShape.jpg";
 import v9 from "../assets/ourvehicles/ModelLShape2.jpg";
 import v10 from "../assets/ourvehicles/ModelLShapewithGameactivity.jpg";
