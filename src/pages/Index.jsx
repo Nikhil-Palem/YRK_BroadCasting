@@ -39,7 +39,7 @@ import v8 from "../assets/ourvehicles/ModelLShape.jpg";
 import v9 from "../assets/ourvehicles/ModelLShape2.jpg";
 import v10 from "../assets/ourvehicles/ModelLShapewithGameactivity.jpg";
 import v11 from "../assets/ourvehicles/ModelTshape.jpg";
-import v12 from "../assets/ourvehicles/14.jpg";
+import v12 from "../assets/ourvehicles/14.JPG";
 
 
 
