@@ -2,12 +2,12 @@ import { useState } from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-import heroImage from "../../public/yrkpics/Compulsory1.JPG";
-import roadshowImage from "../../public/roadshowactivities/led.jpg";
-import engagementImage from "../../public/dailyreportingtoclientswithgpsstamping/Ramraj.jpeg";
-import pamphletImage from "../../public/pampletdistributions/pampletdistributions.jpg";
-import vehicleImage from "../../public/bigvehicles/Compulsory3.jpg";
-import gpsImage from "../../public/dailyreportingtoclientswithgpsstamping/echer1.jpg";
+import heroImage from "../assets/yrkpics/Compulsory1.JPG";
+import roadshowImage from "../assets/roadshowactivities/led.jpg";
+import engagementImage from "../assets/dailyreportingtoclientswithgpsstamping/Ramraj.jpeg";
+import pamphletImage from "../assets/pampletdistributions/pampletdistributions.jpg";
+import vehicleImage from "../assets/bigvehicles/Compulsory3.jpg";
+import gpsImage from "../assets/dailyreportingtoclientswithgpsstamping/echer1.jpg";
 
 /* ---------------- DATA ---------------- */
 

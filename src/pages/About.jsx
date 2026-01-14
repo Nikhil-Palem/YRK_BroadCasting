@@ -9,11 +9,11 @@ import { TrendingUp, Award, Users } from "lucide-react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-import roadshowImage from "../../public/roadshowactivities/e.jpg";
-import vehicleImage from "../../public/bigvehicles/12.jpg";
+import roadshowImage from "../assets/roadshowactivities/e.jpg";
+import vehicleImage from "../assets/bigvehicles/12.jpg";
 
-import kishor from "../../public/yrkpics/kishor.jpg";
-import rajesh from "../../public/yrkpics/rajesh.jpg";
+import kishor from "../assets/yrkpics/kishor.jpg";
+import rajesh from "../assets/yrkpics/rajesh.jpg";
 /* ---------------- DATA ---------------- */
 
 const milestones = [

@@ -13,15 +13,15 @@ import {
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-import heroImage from "../../public/yrkpics/Compulsory1.JPG";
-import roadshowImage from "../../public/roadshowactivities/led.jpg";
-import engagementImage from "../../public/ourservices/a.jpeg";
-import pamphletImage from "../../public/ourservices/pampletdistribution.jpg";
-import vehicleImage from "../../public/bigvehicles/Compulsory3.jpg";
-import gpsImage from "../../public/dailyreportingtoclientswithgpsstamping/echer1.jpg";
-import games from "../../public/ourservices/Games.jpeg";
+import heroImage from "../assets/yrkpics/Compulsory1.JPG";
+import roadshowImage from "../assets/roadshowactivities/led.jpg";
+import engagementImage from "../assets/ourservices/a.jpeg";
+import pamphletImage from "../assets/ourservices/pampletdistribution.jpg";
+import vehicleImage from "../assets/bigvehicles/Compulsory3.jpg";
+import gpsImage from "../assets/dailyreportingtoclientswithgpsstamping/echer1.jpg";
+import games from "../assets/ourservices/Games.jpeg";
 /* ---------------- SERVICES DATA ---------------- */
-import kisoky from "../../public/roadshowactivities/Kiosky.jpg";
+import kisoky from "../assets/roadshowactivities/Kiosky.jpg";
 
 const services = [
   {

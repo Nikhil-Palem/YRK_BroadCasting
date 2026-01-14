@@ -12,15 +12,15 @@ import {
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-import heroImage from "../../public/yrkpics/Compulsory1.JPG";
-import roadshowImage from "../../public/roadshowactivities/led.jpg";
-import engagementImage from "../../public/ourservices/a.jpeg";
-import pamphletImage from "../../public/ourservices/pampletdistribution.jpg";
-import vehicleImage from "../../public/ourservices/led.jpg";
-import gpsImage from "../../public/dailyreportingtoclientswithgpsstamping/echer1.jpg";
-import games from "../../public/ourservices/Games.jpeg";
+import heroImage from "../assets/yrkpics/Compulsory1.JPG";
+import roadshowImage from "../assets/roadshowactivities/led.jpg";
+import engagementImage from "../assets/ourservices/a.jpeg";
+import pamphletImage from "../assets/ourservices/pampletdistribution.jpg";
+import vehicleImage from "../assets/ourservices/led.jpg";
+import gpsImage from "../assets/dailyreportingtoclientswithgpsstamping/echer1.jpg";
+import games from "../assets/ourservices/Games.jpeg";
 import Autoplay from "embla-carousel-autoplay";
-import kisoky from "../../public/roadshowactivities/Kiosky.jpg";
+import kisoky from "../assets/roadshowactivities/Kiosky.jpg";
 import {
   Carousel,
   CarouselContent,
@@ -28,18 +28,18 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "../components/ui/carousel";
-import v1 from "../../public/ourvehicles/12.jpg";
-import v2 from "../../public/ourvehicles/16.jpeg";
-import v3 from "../../public/ourvehicles/18.jpg";
-import v4 from "../../public/ourvehicles/compulsory3.jpg";
-import v5 from "../../public/ourvehicles/DCMBIG.jpeg";
-import v6 from "../../public/ourvehicles/DCMLShape.jpg";
-import v7 from "../../public/ourvehicles/LShapemodel.jpg";
-import v8 from "../../public/ourvehicles/ModelLShape.jpg";
-import v9 from "../../public/ourvehicles/ModelLShape2.jpg";
-import v10 from "../../public/ourvehicles/ModelLShapewithGameactivity.jpg";
-import v11 from "../../public/ourvehicles/ModelTshape.jpg";
-import v12 from "../../public/ourvehicles/14.jpg";
+import v1 from "../assets/ourvehicles/12.jpg";
+import v2 from "../assets/ourvehicles/16.jpeg";
+import v3 from "../assets/ourvehicles/18.jpg";
+import v4 from "../assets/ourvehicles/compulsory3.jpg";
+import v5 from "../assets/ourvehicles/DCMBIG.jpeg";
+import v6 from "../assets/ourvehicles/DCMLShape.jpg";
+import v7 from "../assets/ourvehicles/LShapemodel.jpg";
+import v8 from "../assets/ourvehicles/ModelLShape.jpg";
+import v9 from "../assets/ourvehicles/ModelLShape2.jpg";
+import v10 from "../assets/ourvehicles/ModelLShapewithGameactivity.jpg";
+import v11 from "../assets/ourvehicles/ModelTshape.jpg";
+import v12 from "../assets/ourvehicles/14.jpg";
 
 
 
