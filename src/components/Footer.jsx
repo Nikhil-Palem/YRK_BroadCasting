@@ -128,7 +128,7 @@ const Footer = () => {
                   href="tel:+919876543210"
                   className="hover:text-indigo-400 transition"
                 >
-                  +91 98765 43210
+                  +91 8977840333
                 </a>
               </div>
 
@@ -149,7 +149,7 @@ const Footer = () => {
       {/* Bottom Bar */}
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-400">
-          <p>© 2024 YRK Broadcasting Pvt. Ltd. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} YRK Broadcasting Pvt. Ltd. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-indigo-400 transition">
               Privacy Policy

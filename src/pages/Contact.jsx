@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 
 const contactInfo = [
   { icon: MapPin, title: "Our Office", details: ["Dammaiguda Road, Hyderabad", "India - 500083"] },
-  { icon: Phone, title: "Phone Number", details: ["+91 98765 43210"] },
+  { icon: Phone, title: "Phone Number", details: ["+91 8977840333"] },
   { icon: Mail, title: "Email Address", details: ["yrkbroadcasting@gmail.com"] },
   { icon: Clock, title: "Working Hours", details: ["Mon - Sat: 9:00 AM - 7:00 PM"] },
 ];
